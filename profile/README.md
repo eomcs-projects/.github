@@ -1,3 +1,6 @@
-# 실전 프로젝트
+# 실전 프로젝트 
 
-* [hello-java-project](hello-java-project.md)(자바 프로젝트)
+## [hello-java-project](https://github.com/eomcs-projects/hello-java-project)
+
+스탠드얼론에서 클라이언트/서버, 웹, 모바일까지 다양한 구조의 애플리케이션 개발을 경험할 수 있는 자바 프로젝트입니다.
+
